@@ -6,8 +6,8 @@
      {"id":"4","Name":"Mariam","Age":"20"},
      {"id":"5","Name":"Rahma","Age":"20"},
      {"id":"6","Name":"Jannat","Age":"20"},
-     {"Name":"Khalida","Age":"21"},
-     {"Age":"21","Name":"Qubais","id":"7"}
+     {"id":"7","Name":"Khalida","Age":"21"},
+     {"id":"8","Name":"Qubais","Age":"21"}
    ],
    "Techers":[
      {"id":"1","Name":"Ammar Yaseen","Subject":"Mobile Applications"},
@@ -15,7 +15,7 @@
      {"id":"3","Name":"Ozlem Abd","Subject":"Distributed Systems"},
      {"id":"4","Name":"Shahla Umar","Subject":"Network Simulation and Modeling"},
      {"id":"5","Name":"Ibrahim Taha","Subject":"Degital Signal Proccessing"},
-      {"id":"6","Name":"Ibrahim Taha","Subject":"System Administration"}
+     {"id":"6","Name":"Ibrahim Taha","Subject":"System Administration"}
    ],
    "profile": {
     "name": "MyServer"
