@@ -8,13 +8,11 @@
      {"id":"6","Name":"Qubais","Age":"21"}
    ],
    "Techers":[
-     {"id":"1","Name":"Ammar","Subject":"Mobile Applications"},
-     {"id":"2","Name":"Ogus","Subject":"Wireless Networks"},
-     {"id":"3","Name":"Ozlem","Subject":"Distriputid systems"},
-     {"id":"4","Name":"shahla","Subject":"Network simulation"},
-     {"id":"5","Name":"Ibrahim","Subject":"Degital signal proccessing"}
+     {"id":"1","Name":"Ammar Yaseen","Subject":"Mobile Applications"},
+     {"id":"2","Name":"Oguz Aranay","Subject":"Wireless Networks"},
+     {"id":"3","Name":"Ozlem Abd","Subject":"Distributed Systems"},
+     {"id":"4","Name":"Shahla Umar","Subject":"Network Simulation and Modeling"},
+     {"id":"5","Name":"Ibrahim Taha","Subject":"Degital Signal Proccessing"},
+      {"id":"6","Name":"Ibrahim Taha","Subject":"System Administration"}
    ],
-   "profile": {
-    "name": "Ahmed's server"
-  }
 }
