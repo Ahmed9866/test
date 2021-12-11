@@ -1,0 +1,17 @@
+{
+"Students":[
+{"id":"1","Name":"Ahmed","Age":"22"},
+{"id":"2","Name":"Ibrahim","Age":"21"},
+{"id":"3","Name":"shefaa","Age":"22"},
+{"id":"4","Name":"Mariam","Age":"20"},
+{"id":"5","Name":"Rahma","Age":"20"},
+{"id":"6","Name":"Qubais","Age":"21"}
+]
+"Techers":[
+{"id":"1","Name":"Ammar","Subject":"Mobile Applications"},
+{"id":"2","Name":"Ogus","Subject"Wireless Networks"},
+{"id":"3","Name":"Ozlem","Subject":"Distriputid systems"},
+{"id":"4","Name":"shahla","Subject":"Network simulation"},
+{"id":"5","Name":"Ibrahim","Subject":"Degital signal proccessing"},
+]
+}
