@@ -15,4 +15,7 @@
      {"id":"5","Name":"Ibrahim Taha","Subject":"Degital Signal Proccessing"},
       {"id":"6","Name":"Ibrahim Taha","Subject":"System Administration"}
    ],
+   "profile": {
+    "name": "MyServer"
+  }
 }
